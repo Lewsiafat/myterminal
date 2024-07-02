@@ -11,3 +11,8 @@
 # Others
 ## [nerdfonts](https://www.nerdfonts.com/)
 
+# Git
+## memo
+1. ``git config diff.wsErrorHighlight all`` show all space diff
+
+

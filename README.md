@@ -21,9 +21,19 @@
 10. b : CtrlBuffer
 11. ig : show indent (IndentGuidesxxx)
 12. gcc gc : comment and uncomment
+13. o O : in normal mode to insert new line
+14. ss： add a space in normal mode
+15. Tap Tap：show end of line
+16. ;;：repleace all end with ; to  nonde
+17. 
 # Others
 ## [nerdfonts](https://www.nerdfonts.com/)
-
+# zsh
+## alias
+1. vf：search by fzf and open file with vim
+2. lll：ls -al
+3. tree3d：tree dir with max 3 levels
+4. treeC：tree dir with less and color
 # Git
 ## memo
 1. ``git config diff.wsErrorHighlight all`` show all space diff
